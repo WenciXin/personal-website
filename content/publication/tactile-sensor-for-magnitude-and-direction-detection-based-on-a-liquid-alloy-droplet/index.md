@@ -22,7 +22,7 @@ draft: false
 featured: false
 image:
   filename: 微信截图_20210630235312.png
-  focal_point: Right
-  preview_only: false
-date: 2021-06-30T15:50:24.416Z
+  focal_point: ""
+  preview_only: true
+date: 2019-06-05T15:50:24.416Z
 ---
