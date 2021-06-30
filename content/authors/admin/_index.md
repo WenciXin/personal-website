@@ -1,6 +1,6 @@
 ---
 title: Wenci Xin
-role: Ph.D. student at NUS
+role: Ph.D. student
 bio: My research interests include bio-inspired robot, soft robot, medical robot
   and soft sensor
 interests:
