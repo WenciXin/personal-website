@@ -48,7 +48,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: ap-2018-000102_0005.jpeg
-date: 2013-07-01T00:00:00.000Z
+date: 2019-01-06T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
