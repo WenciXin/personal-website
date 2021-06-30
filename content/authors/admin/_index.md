@@ -4,9 +4,10 @@ role: Ph.D. student at NUS
 bio: My research interests include bio-inspired robot, soft robot, medical robot
   and soft sensor
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bio-inspired Robot
+  - Soft Robot
+  - Medical Robot
+  - Soft Sensor
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,9 +42,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am currently a Ph.D. student in the department of mechanical engineering, the National University of Singapore. I am supervised by Prof. Cecilia Laschi. Previously, I received my M.Phil. degree from the Chinese University of Hong Kong (CUHK) in 2021, and B.S. from Huazhong University of Science and Technology (HUST) in 2019.
