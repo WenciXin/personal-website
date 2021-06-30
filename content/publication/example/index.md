@@ -29,11 +29,11 @@ authors:
 author_notes:
   - equal-contrinbution
   - equal-contribution
-publication: In *Wowchemy Conference*
+publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: ACS Appl. Polym. Mater. 2019, 1, 2, 145–151
 url_source: ""
 url_video: ""
 title: Sandwiched Polyethylene Shrink Film Masking with Tunable Resolution and
