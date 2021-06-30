@@ -1,8 +1,8 @@
 ---
 title: Wenci Xin
 role: Ph.D. student at NUS
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include bio-inspired robot, soft robot, medical robot
+  and soft sensor
 interests:
   - Artificial Intelligence
   - Computational Linguistics
