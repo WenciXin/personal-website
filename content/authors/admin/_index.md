@@ -11,34 +11,27 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: \#contact
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/WenciXin
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/wenci-xin-75b67115b/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: the National University of Singapore
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Ph.D. in Mechanical Engineering
+      institution: the National University of Singapore
+      year: ""
+    - course: M.Phil. in Surgery
+      institution: the Chinese University of Hong Kong
+      year: 2021
+    - course: BSc in Mechanical Engineering
+      institution: Huazhong University of Science and Technology
+      year: 2019
+email: e0751508@u.nus.edu
 superuser: true
 highlight_name: false
 ---
