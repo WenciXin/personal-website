@@ -7,13 +7,11 @@ authors:
   - Bei Wang
   - Wenci Xin
   - Zhigang Wu
-publication: MRS 2019
+publication: MRS 2019 (Poster)
 abstract: >-
   To measure the tactile signals, such as magnitude, strain and especially
   direction, various types of sensors have been developed. However, these
-  devices are
-
-  either very complex in structureonly or only can obtain single signal. This work presents a novel soft tactile sensor with capacitance between liquid alloy based
+  devices are either very complex in structureonly or only can obtain single signal. This work presents a novel soft tactile sensor with capacitance between liquid alloy based
 
   hemisphere and planar electrodes. Due to the nature high surface tension and flowability of liquid alloy droplet, the dynamic re-distribution of charges on electrodes
 
