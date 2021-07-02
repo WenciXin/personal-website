@@ -16,9 +16,9 @@ content:
     category: ""
     publication_type: ""
     author: ""
-    exclude_featured: ture
+    exclude_featured: false
 design:
-  view: 4
+  view: 3
 ---
 
 {{% callout note %}}
