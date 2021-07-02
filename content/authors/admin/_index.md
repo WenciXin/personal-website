@@ -19,12 +19,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/wenci-xin-75b67115b/
 organizations:
-  - name: the National University of Singapore
+  - name: National University of Singapore
 education:
   courses:
     - course: Ph.D. in Mechanical Engineering
       institution: the National University of Singapore
-      year: ""
+      year: "undergoing"
     - course: M.Phil. in Surgery
       institution: the Chinese University of Hong Kong
       year: 2021
