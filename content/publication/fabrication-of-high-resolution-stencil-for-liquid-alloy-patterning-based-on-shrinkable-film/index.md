@@ -9,7 +9,7 @@ authors:
   - KlasHjort
   - ChuanfeiGuo
   - ZhigangWu
-publication_short: ISFSE  2019
+publication_short: ISFSE  2019 (Poster)
 abstract: >-
   For any other mask-based process, its resolution is often constrained by the
   quality of the mask, and the fabrication cost increases drastically with
