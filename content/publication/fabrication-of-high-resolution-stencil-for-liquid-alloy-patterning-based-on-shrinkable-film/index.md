@@ -21,6 +21,9 @@ abstract: >-
   With the relaxing of the polymer chain, shrink polymer film can shrink to a certain ratio after heating. By introducing shrink polymer film masking, the mask resolution could be tuned in some range towards higher resolution so that it becomes sufficient for more applications in stretchable electronics. Also, with different pre-stretched methods and parameters in manufacturing, the shrink polymer film could shrink uniaxiallyor biaxiallywith different shrink ratios. Here, we have found means to control the shrink ratio precisely and developed it into three-dimensional (3D) applications.
 draft: false
 featured: false
+author_notes:
+  - 
+  - me
 image:
   filename: featured
   focal_point: Smart
