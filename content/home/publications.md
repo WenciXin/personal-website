@@ -8,7 +8,7 @@ subtitle: ""
 active: true
 content:
   page_type: post
-  count: 5
+  count: 7
   offset: 0
   order: desc
   filters:
