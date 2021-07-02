@@ -11,6 +11,7 @@ authors:
   - Yitian Xian
   - Philip Wai Yan Chiu
   - Zheng Li
+publication_short: 2021 International Conference on Robotics and Automation (ICRA 2021).
 abstract: |-
   Colorectal cancer (CRC) incidence has been
   steadily rising worldwide. Robotic colonoscopes provide new
