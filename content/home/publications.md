@@ -7,7 +7,7 @@ title: Publications
 subtitle: ""
 active: true
 content:
-  page_type: publication
+  page_type: post
   count: 5
   offset: 0
   order: desc
@@ -17,6 +17,8 @@ content:
     publication_type: ""
     author: ""
     exclude_featured: false
+    exclude_past: false
+    exclude_future: false
 design:
   view: 2
 ---
