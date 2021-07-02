@@ -17,7 +17,7 @@ abstract: Among numerous patterning techniques, masked liquid alloy printing is
   sensor and three-dimensional conformal masking were demonstrated, showing the
   potential of the developed technique.
 slides: ""
-url_pdf: ""
+url_pdf: "https://doi.org/10.1021/acsapm.8b00010"
 publication_types:
   - "2"
 authors:
