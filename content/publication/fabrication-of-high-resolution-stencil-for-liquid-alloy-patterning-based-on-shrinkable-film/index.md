@@ -4,11 +4,11 @@ title: Fabrication of High-resolution Stencil for Liquid Alloy patterning based
 publication_types:
   - "0"
 authors:
-  - BeiWang
-  - WenciXin
-  - KlasHjort
-  - ChuanfeiGuo
-  - ZhigangWu
+  - Bei Wang
+  - Wenci Xin
+  - Klas Hjort
+  - Chuanfei Guo
+  - Zhigang Wu
 publication_short: ISFSE  2019 (Poster)
 abstract: >-
   For any other mask-based process, its resolution is often constrained by the
