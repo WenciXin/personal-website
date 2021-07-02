@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: e0751508@u.nus.edu
+    link: mailto:e0751508@u.nus.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/WenciXin
