@@ -26,7 +26,7 @@ abstract: Crawling through various terrains has been a long research interest.
   times than that of the previous one. Also shown by the results that the mucus
   helps to speed up the robot by at least 2.7 times.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
