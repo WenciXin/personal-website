@@ -9,7 +9,8 @@ authors:
   - Yehui Li
   - Philip Wai Yan Chiu
   - Zheng Li
-doi: 10.1109/BioRob49111.2020.9224300
+
+url_pdf: "https://10.1109/BioRob49111.2020.9224300"
 publication: 2020 8th IEEE International Conference on Biomedical Robotics and
   Biomechatronics (BioRob)
 abstract: Gastrointestinal (GI) tract related diseases are common and deadly. To
@@ -33,5 +34,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  
 date: 2020-12-01T12:08:52.822Z
 ---
