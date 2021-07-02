@@ -18,9 +18,7 @@ abstract: >-
   can achieve high sensitivity, wide range and abundant functions, e.g. magnitude or direction of external force.
 draft: false
 featured: false
-author_notes:
-  - 
-  - me
+
 image:
   filename: 微信截图_20210630235312.png
   focal_point: right
