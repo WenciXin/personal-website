@@ -35,4 +35,4 @@ email: e0751508@u.nus.edu
 superuser: true
 highlight_name: false
 ---
-I am currently a Ph.D. student in the department of mechanical engineering, the National University of Singapore. I am supervised by Prof. Cecilia Laschi. Previously, I received my M.Phil. degree from the Chinese University of Hong Kong (CUHK) in 2021, and B.Eng. from Huazhong University of Science and Technology (HUST) in 2019.
+I am currently a Ph.D. student in the department of mechanical engineering, the National University of Singapore. I am supervised by Prof. Cecilia Laschi. Previously, I received my M.Phil. degree supervied by Prof. Zheng Li from the Chinese University of Hong Kong (CUHK) in 2021, and B.Eng. adviced by Prof. Zhigang Wu from Huazhong University of Science and Technology (HUST) in 2019.
