@@ -46,7 +46,7 @@ projects:
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: ap-2018-000102_0005.jpeg
 date: 2019-01-06T00:00:00.000Z
 url_slides: ""
