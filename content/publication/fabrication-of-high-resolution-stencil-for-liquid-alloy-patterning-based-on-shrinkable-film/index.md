@@ -10,7 +10,6 @@ authors:
   - Chuanfei Guo
   - Zhigang Wu
 publication_short: ISFSE  2019 (Poster)
-url_pdf:ISFSE_2019_Shrink Film.pdf
 abstract: >-
   For any other mask-based process, its resolution is often constrained by the
   quality of the mask, and the fabrication cost increases drastically with
