@@ -11,7 +11,8 @@ authors:
   - Weibing Li
   - Philip Wai Yan Chiu
   - Zheng Li
-doi: 10.1109/TMRB.2021.3063844
+
+url_pdf: "https://10.1109/TMRB.2021.3063844"
 publication_short: " IEEE Transactions on Medical Robotics and Bionics, 2021, 3(2): 402-413"
 abstract: |-
   Colorectal cancer (CRC) incidence has been steadily
