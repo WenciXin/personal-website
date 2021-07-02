@@ -23,13 +23,13 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Mechanical Engineering
-      institution: National University of Singapore (Supervisor: Cecilia Laschi)
+      institution: National University of Singapore
       year: "undergoing"
     - course: M.Phil. in Surgery
-      institution: the Chinese University of Hong Kong (Supervisor: Zheng Li)
+      institution: the Chinese University of Hong Kong
       year: 2021
     - course: B.Eng. in Mechanical Engineering
-      institution: Huazhong University of Science and Technology (Supervisor: Zhigang Wu)
+      institution: Huazhong University of Science and Technology
       year: 2019
 email: e0751508@u.nus.edu
 superuser: true
