@@ -23,7 +23,7 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Mechanical Engineering
-      institution: a \n National University of Singapore
+      institution: National University of Singapore111111111111
       year: "undergoing"
     - course: M.Phil. in Surgery
       institution: the Chinese University of Hong Kong
