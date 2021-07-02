@@ -23,7 +23,7 @@ author_notes:
   - me
 image:
   filename: 微信截图_20210630235312.png
-  focal_point: ""
+  focal_point: right
   preview_only: true
 date: 2019-06-05T15:50:24.416Z
 ---
