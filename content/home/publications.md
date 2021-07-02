@@ -6,7 +6,8 @@ title: Publications
 subtitle: ""
 active: true
 content:
-  page_type: post
+  page_type: publication
+  widget_id: publications
   count: 5
   offset: 0
   order: desc
