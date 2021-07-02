@@ -38,7 +38,7 @@ url_source: ""
 url_video: ""
 title: Sandwiched Polyethylene Shrink Film Masking with Tunable Resolution and
   Shape for Liquid Alloy Patterning
-doi: https://doi.org/10.1021/acsapm.8b00010
+doi: ""
 featured: false
 tags: []
 projects:
