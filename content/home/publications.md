@@ -6,7 +6,7 @@ title: Publications
 subtitle: ""
 active: true
 content:
-  page_type: publication
+  page_type: pages
   widget_id: publications
   count: 5
   offset: 0
