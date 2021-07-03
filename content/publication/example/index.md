@@ -44,13 +44,13 @@ tags: []
 projects:
   - ShrinkFilm
 image:
-  caption: ""
-  focal_point: ""
+  caption: " "
+  focal_point: "right"
   preview_only: true
   filename: ap-2018-000102_0005.jpeg
 date: 2019-01-06T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ap-2018-000102_0005.jpeg
+url_poster: ""
 url_code: ""
 ---
