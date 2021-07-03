@@ -19,6 +19,7 @@ image:
   filename: pesudo-rigid.png
   focal_point: Smart
   preview_only: false
+  alt_text: "123"
 date: 2021-05-30T12:12:56.062Z
 ---
 Colorectal cancer (CRC) incidence has been
