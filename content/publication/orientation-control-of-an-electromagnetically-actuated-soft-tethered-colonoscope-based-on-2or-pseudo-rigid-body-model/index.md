@@ -1,6 +1,7 @@
 ---
 title: Orientation Control of an Electromagnetically Actuated Soft-Tethered
   Colonoscope Based on 2OR Pseudo-Rigid-Body Model
+subtitle: 2021 International Conference on Robotics and Automation (ICRA 2021).
 publication_types:
   - "1"
 authors:
@@ -12,7 +13,7 @@ authors:
   - Philip Wai Yan Chiu
   - Zheng Li
 publication_short: 2021 International Conference on Robotics and Automation (ICRA 2021).
-abstract: 2021 International Conference on Robotics and Automation (ICRA 2021).
+abstract: ""
 draft: false
 featured: false
 image:
