@@ -1,7 +1,7 @@
 ---
 title: Simultaneous Elasticity Perception and Locomotion in Soft Tubular Environment with an Earthworm-like Soft Robot
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Flippy Tianle Pan
   - Wing Yin Ng
@@ -15,5 +15,5 @@ draft: false
 featured: false
 
   
-date: 2021-9-7T12:08:52.822Z
+date: 2021-09-07T12:08:52.822Z
 ---
