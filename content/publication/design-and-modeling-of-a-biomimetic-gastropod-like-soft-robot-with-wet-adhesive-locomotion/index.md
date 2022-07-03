@@ -9,7 +9,7 @@ authors:
   - Yehui Li
   - Philip Wai Yan Chiu
   - Zheng Li
-url_pdf: "https://10.1109/ICRA48506.2021.9560778"
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9560778/?casa_token=XwKpNC3Y7OUAAAAA:PQSWKyIZO2bMBVJ-DGNeHAFcPP4iyr11q2SSwsXIl2XVYLJWyawZv3kW9SpfGX2COBEEh4idUrk"
 publication_short: "2021 International Conference on Robotics and Automation (ICRA 2021) "
 abstract: Crawling through various terrains has been a long research interest.
   In recent years, quite a number of soft crawling robots have been developed.
