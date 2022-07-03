@@ -13,7 +13,7 @@ authors:
   - Philip Wai Yan Chiu
   - Zheng Li
 publication_short: 2021 International Conference on Robotics and Automation (ICRA 2021).
-url_pdf: "https://10.1109/ICRA48506.2021.9561742"
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9561742/?casa_token=ICysSbeP15UAAAAA:S3mPk0MnJ9Xa1pr2os-N4rdfwlYVVBXXN5128EPJ-CyK3skJJjk6kne1fMVS_vsIgpM7zTA0CYc"
 abstract: ""
 draft: false
 featured: false
