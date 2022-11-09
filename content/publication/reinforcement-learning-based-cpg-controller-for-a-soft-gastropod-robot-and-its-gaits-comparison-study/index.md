@@ -9,6 +9,7 @@ authors:
   - Flippy Tianle Pan
   - Yehui Li
   - Philip Wai Yan Chiu and Zheng Li
+doi: 10.1109/BioRob52689.2022.9925529
 publication: The 9th IEEE RAS/EMBS International Conference on Biomedical
   Robotics & Biomechatronics (BioRob)
 abstract: >-
