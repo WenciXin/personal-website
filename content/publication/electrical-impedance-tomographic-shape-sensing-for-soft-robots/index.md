@@ -7,7 +7,8 @@ authors:
   - Fangmeng Zhu
   - Peiyi Wang
   - Zhexin Xie
-  - Zhiqiang Tang and Cecilia Laschi
+  - Zhiqiang Tang
+  - Cecilia Laschi
 doi: 10.1109/LRA.2023.3240368
 publication: "IEEE Robotics and Automation Letters "
 abstract: |-
