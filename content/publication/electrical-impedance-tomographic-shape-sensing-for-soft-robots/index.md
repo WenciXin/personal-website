@@ -3,12 +3,7 @@ title: Electrical Impedance Tomographic Shape Sensing for Soft Robots
 publication_types:
   - "2"
 authors:
-  - Wenci Xin
-  - Fangmeng Zhu
-  - Peiyi Wang
-  - Zhexin Xie
-  - Zhiqiang Tang
-  - Cecilia Laschi
+  - Wenci Xin; Fangmeng Zhu; Peiyi Wang; Zhexin Xie; Zhiqiang Tang; Cecilia Laschi
 doi: 10.1109/LRA.2023.3240368
 publication: "IEEE Robotics and Automation Letters "
 abstract: |-
